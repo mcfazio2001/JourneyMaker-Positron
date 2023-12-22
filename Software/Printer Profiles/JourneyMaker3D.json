@@ -1,0 +1,197 @@
+{
+    "auxiliary_fan": "0",
+    "bbl_calib_mark_logo": "1",
+    "bed_custom_model": "",
+    "bed_custom_texture": "",
+    "bed_exclude_area": [
+        "0x0"
+    ],
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\n",
+    "change_filament_gcode": "",
+    "default_filament_profile": [
+        "My Generic ABS"
+    ],
+    "default_print_profile": "0.20mm Standard @MyKlipper",
+    "deretraction_speed": [
+        "30"
+    ],
+    "extruder_clearance_height_to_lid": "140",
+    "extruder_clearance_height_to_rod": "36",
+    "extruder_clearance_radius": "65",
+    "extruder_colour": [
+        "#FCE94F"
+    ],
+    "extruder_offset": [
+        "0x0"
+    ],
+    "fan_kickstart": "0",
+    "fan_speedup_overhangs": "1",
+    "fan_speedup_time": "0",
+    "from": "",
+    "gcode_flavor": "klipper",
+    "host_type": "octoprint",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]",
+    "machine_end_gcode": "SET_LED LED=WS2812 RED=0.1 GREEN=0.35 BLUE=0 ; finished printing Green\n \nM104 S0\nM140 S0 ;Retract the filament\n \nG92 E1\nG1 E-1 F80 \nG1 X5 Y90 F3000 \nG91 G1 Z20 F600\nG1 Z20 F600\nG1 Z20 F600\nG1 Z20 F600\nM84\nG4  P1000 ; wait a second\n \nSET_LED LED=WS2812 RED=0.1 GREEN=0.1 BLUE=0.1 ; defaule white\"",
+    "machine_load_filament_time": "0",
+    "machine_max_acceleration_e": [
+        "5000",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "20000",
+        "20000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "5000",
+        "5000"
+    ],
+    "machine_max_acceleration_travel": [
+        "9000",
+        "9000"
+    ],
+    "machine_max_acceleration_x": [
+        "20000",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "20000",
+        "20000"
+    ],
+    "machine_max_acceleration_z": [
+        "500",
+        "200"
+    ],
+    "machine_max_jerk_e": [
+        "2.5",
+        "2.5"
+    ],
+    "machine_max_jerk_x": [
+        "9",
+        "9"
+    ],
+    "machine_max_jerk_y": [
+        "9",
+        "9"
+    ],
+    "machine_max_jerk_z": [
+        "0.2",
+        "0.4"
+    ],
+    "machine_max_speed_e": [
+        "25",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "500",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "500",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "12",
+        "12"
+    ],
+    "machine_min_extruding_rate": [
+        "0",
+        "0"
+    ],
+    "machine_min_travel_rate": [
+        "0",
+        "0"
+    ],
+    "machine_pause_gcode": "PAUSE",
+    "machine_start_gcode": "SET_LED LED=WS2812 RED=0 GREEN=0.1 BLUE=0.2; #color teal\n \nM140 S{first_layer_bed_temperature[0]}     ; set bed temperature and continue\n \nM104 S{first_layer_temperature[0]}   ; set hot end temperature and continue\n \nM106 S190; fan on for correct PID\n \nG4  P3000 ; wait 3 sec\n \nG28 ; Home all axes\n\nG90 \nG1 Z40 F300 ; Z raise\n\nG1 X5 Y80 F3000 ; go to parking pos.\n \nM109 S{first_layer_temperature[0]}   ; wait for hot end temperature to reach e.g. 210 °C\n \nM106 S0; fan off\n \nSET_LED LED=WS2812 RED=0.18 GREEN=0 BLUE=0.20 ; color Purple\n \nG29 ;Activate bed leveling compensation\n \nSET_LED LED=WS2812 RED=0.2 GREEN=0.1 BLUE=0 ; color Orange - printing color\n\nG90 \n\nG4  P1000 ; wait a second\n \n; prime nozzle\n \nG1 X30 Y160 F7200 ; move to start\n \nG1 Z0.3 F800 ; Move to layer height\n\nG92 E0.0 \nG1 X130 Y160 E20 F800 ; print prime line\n \nG1 X130 Y159 F7200 ; move to start\n \nG1 X30 Y159 E40 F800 ; print prime line",
+    "machine_unload_filament_time": "0",
+    "max_layer_height": [
+        "0.28"
+    ],
+    "min_layer_height": [
+        "0.08"
+    ],
+    "name": "JourneyMaker3D",
+    "nozzle_diameter": [
+        "0.4"
+    ],
+    "nozzle_hrc": "0",
+    "nozzle_type": "undefine",
+    "nozzle_volume": "0",
+    "print_host": "mainsail.local",
+    "print_host_webui": "",
+    "printable_area": [
+        "0x0",
+        "185x0",
+        "185x170",
+        "0x170"
+    ],
+    "printable_height": "180",
+    "printer_model": "Generic Klipper Printer",
+    "printer_settings_id": "JourneyMaker3D",
+    "printer_technology": "FFF",
+    "printer_variant": "0.4",
+    "printhost_apikey": "",
+    "printhost_authorization_type": "key",
+    "printhost_cafile": "",
+    "printhost_password": "",
+    "printhost_port": "",
+    "printhost_ssl_ignore_revoke": "0",
+    "printhost_user": "",
+    "retract_before_wipe": [
+        "70%"
+    ],
+    "retract_length_toolchange": [
+        "2"
+    ],
+    "retract_lift_above": [
+        "0"
+    ],
+    "retract_lift_below": [
+        "0"
+    ],
+    "retract_lift_enforce": [
+        "All Surfaces"
+    ],
+    "retract_restart_extra": [
+        "0"
+    ],
+    "retract_restart_extra_toolchange": [
+        "0"
+    ],
+    "retract_when_changing_layer": [
+        "1"
+    ],
+    "retraction_length": [
+        "0.8"
+    ],
+    "retraction_minimum_travel": [
+        "1"
+    ],
+    "retraction_speed": [
+        "30"
+    ],
+    "scan_first_layer": "0",
+    "silent_mode": "0",
+    "single_extruder_multi_material": "1",
+    "template_custom_gcode": "",
+    "thumbnails": [
+        "300x300"
+    ],
+    "upward_compatible_machine": [],
+    "use_firmware_retraction": "0",
+    "use_relative_e_distances": "1",
+    "version": "1.6.0.0",
+    "wipe": [
+        "1"
+    ],
+    "wipe_distance": [
+        "1.5"
+    ],
+    "z_hop": [
+        "0.2"
+    ],
+    "z_hop_types": [
+        "Normal Lift"
+    ]
+}

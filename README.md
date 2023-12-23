@@ -24,7 +24,7 @@ What's great is its compatibility with modifications tailored for other Positron
 
 ## Advantages 
 
-- Simplified assembly ##(The easiest Positron Printer to build)
+- Simplified assembly (The easiest Positron Printer to build)
 - Cost reduction (Cost less than the Positron V3, parts can be sourced on websites such as AliExpress and Amazon) 
 - User-friendly build guide
 - Integrated PSU (power supply unit) with 200W

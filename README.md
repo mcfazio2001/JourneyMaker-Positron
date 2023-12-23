@@ -6,7 +6,7 @@ https://voxolite.com/
 ![IMG_3391_(1)](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/99208707/651e965f-62b1-4dfb-9bc9-0ba7e150a224)
 
 <br>
-<img src="https://discordapp.com/api/guilds/[1158982699613163590]/widget.png?style=banner2" alt="Discord Banner 2"/>
+<img src="https://discordapp.com/api/guilds/[1158982699613163590]/widget.png?style=banner2" alt="[Discord Banner 2](https://discord.com/api/guilds/1158982699613163590/widget.json)"/>
 
 </div>
 

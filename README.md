@@ -1,9 +1,54 @@
+<div align="center">
+
 # JourneyMaker---Positron-V4
+https://voxolite.com/
+
+![IMG_3391_(1)](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/99208707/651e965f-62b1-4dfb-9bc9-0ba7e150a224)
+
+<br>
+[<img src="https://discordapp.com/api/guilds/1067472931246047323/widget.png?style=banner2">](https://discord.gg/wyuYPsdG)
+
+</div>
+
+<br>
+
+## About
 
 JourneyMaker is a redesigned 3D printer that combines the best qualities of [Positron V3](https://github.com/KRALYN/PositronV3) and [LT](https://github.com/Audiotronix/Positron_LT) with our own innovations. Perfect for hobbyists and professionals looking for a space-saving printing solution.
 
-Built upon the innovative Positron V3 form factor and motion-system by [KRALYN](https://github.com/KRALYN/PositronV3), and inspired by the Positron LT design, the JourneyMaker represents a blend of their standout features with our unique improvements.
-
-Setting itself apart, this printer simplifies assembly, offers a user-friendly build guide, readily available machined parts, and cost reductions compared to other options.
+Built upon the innovative Positron V3 form factor and motion-system by [KRALYN](https://github.com/KRALYN/PositronV3), and inspired by the Positron LT design, the JourneyMaker represents a combination of their standout features with our unique improvements.
 
 What's great is its compatibility with modifications tailored for other Positron versions, making it an ideal choice for an enhanced printing experience while allowing flexibility for personalized adjustments.
+
+<br>
+
+## Advantages 
+
+- Simplified assembly ##(The easiest Positron Printer to build)
+- Cost reduction (Cost less than the Positron V3, parts can be sourced on websites such as AliExpress and Amazon) 
+- User-friendly build guide
+- Integrated PSU (power supply unit) with 200W
+- 3mm GT2 timing belt on XY (cheaper and easier to source as the original Synchromesh wire)
+- Simplified Z axis by using a leadscrew. Easy to assemble by folding up
+- Improved tool head cooling and heat creep
+- Readily available machined parts (No need to machine your parts, we got you. Vist Voxolite.com)
+- Less machined parts than the Positron V3
+- New extruder
+
+<br>
+
+## Specs
+
+-	Max Print Speed: 250mm/s (Not limited to)
+-	Max Travel Speed: 350mm/s (Not limited to)
+-	Acceleration: 9800mm/s^2 (Not limited to)
+-	Build Volume: 180x180x173mm
+-	Weight: 2300-2500g (with integrated PSU)
+-	Hotend max temp: 250C
+-	Build Plate Max temp: 80-100C
+-	Power supply: 24V; 200W
+-	Footprint: ~200mmx200mm
+
+<br>
+
+## License

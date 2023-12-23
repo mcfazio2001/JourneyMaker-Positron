@@ -55,4 +55,4 @@ Its compatibility with modifications tailored for other Positron versions is gre
 <br>
 
 ## Help Support the Project 
-If you like this design, please consider supporting the Positron 3D team via donations; [Paypal] (https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC)
+If you like this design, please consider supporting the Voxolite team via donations; [Paypal] (https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC)

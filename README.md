@@ -24,7 +24,7 @@ Its compatibility with modifications tailored for other Positron versions is gre
 ## Advantages 
 
 - Simplified assembly (The easiest Positron Printer to build)
-- Cost reduction (Cost less than the Positron V3, parts can be sourced on websites such as AliExpress and Amazon) 
+- Cost reduction (Cost less than the Positron V3) 
 - User-friendly build guide
 - Integrated PSU (power supply unit) with 200W
 - 3mm GT2 timing belt on XY (cheaper and easier to source than the original Synchromesh wire)

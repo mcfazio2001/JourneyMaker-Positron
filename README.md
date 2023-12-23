@@ -39,15 +39,15 @@ Its compatibility with modifications tailored for other Positron versions is gre
 
 ## Specs
 
--	Max Print Speed: 250mm/s (Not limited to)
--	Max Travel Speed: 350mm/s (Not limited to)
--	Acceleration: 9800mm/s^2 (Not limited to)
--	Build Volume: 180x180x173mm
--	Weight: 2300-2500g (with integrated PSU)
--	Hotend max temp: 250C
--	Build Plate Max temp: 80-100C
--	Power supply: 24V; 200W
--	Footprint: ~200mmx200mm
+-	Max Print Speed: '250mm/s' (Not limited to)
+-	Max Travel Speed: '350mm/s' (Not limited to)
+-	Acceleration: '9800mm/s^2' (Not limited to)
+-	Build Volume: '180x180x173mm'
+-	Weight: '2300-2500g' (with integrated PSU)
+-	Hotend max temp: '250C'
+-	Build Plate Max temp: '80-100C'
+-	Power supply: '24V; 200W'
+-	Footprint: '~200mmx200mm'
 
 <br>
 

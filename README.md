@@ -1,6 +1,6 @@
 <div align="center">
 
-# JourneyMaker---Positron-V4
+# JourneyMaker-Positron-V4
 https://voxolite.com/
 
 ![IMG_3391_(1)](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/99208707/651e965f-62b1-4dfb-9bc9-0ba7e150a224)
@@ -18,7 +18,7 @@ JourneyMaker is a redesigned 3D printer that combines the best qualities of [Pos
 
 Built upon the innovative Positron V3 form factor and motion-system by [KRALYN](https://github.com/KRALYN/PositronV3), and inspired by the Positron LT design, the JourneyMaker represents a combination of their standout features with our unique improvements.
 
-What's great is its compatibility with modifications tailored for other Positron versions, making it an ideal choice for an enhanced printing experience while allowing flexibility for personalized adjustments.
+Its compatibility with modifications tailored for other Positron versions is great, making it an ideal choice for an enhanced printing experience while allowing flexibility for personalized adjustments.
 
 <br>
 
@@ -28,10 +28,10 @@ What's great is its compatibility with modifications tailored for other Positron
 - Cost reduction (Cost less than the Positron V3, parts can be sourced on websites such as AliExpress and Amazon) 
 - User-friendly build guide
 - Integrated PSU (power supply unit) with 200W
-- 3mm GT2 timing belt on XY (cheaper and easier to source as the original Synchromesh wire)
+- 3mm GT2 timing belt on XY (cheaper and easier to source than the original Synchromesh wire)
 - Simplified Z axis by using a leadscrew. Easy to assemble by folding up
 - Improved tool head cooling and heat creep
-- Readily available machined parts (No need to machine your parts, we got you. Vist Voxolite.com)
+- Readily available machined parts (No need to machine your parts, we've got you covered. Vist Voxolite.com)
 - Less machined parts than the Positron V3
 - New extruder
 

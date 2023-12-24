@@ -7,8 +7,6 @@ https://voxolite.com/
 
 <br>
 <img src="https://discordapp.com/api/guilds/1158982699613163590/widget.png?style=banner4" alt="Discord Banner 4"/>
-</div>
-
 <br>
 
 ## About

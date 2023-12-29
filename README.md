@@ -51,6 +51,61 @@ Its compatibility with modifications tailored for other Positron versions making
 
 ## License
 
+#License Summary:
+
+General Overview:
+
+- License Type: Creative Commons Attribution-NonCommercial 4.0 International.
+- Licensing Entity: Creative Commons Corporation.
+  
+Important Definitions:
+
+- Adapted Material: Material derived from or based upon the Licensed Material, requiring permission under the Copyright and Similar Rights.
+- Licensed Material: The original work, database, or material covered by the license.
+
+Scope of License:
+
+- License Grant: You are granted a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license for NonCommercial purposes only.
+- Exceptions and Limitations: The license does not apply if Exceptions and Limitations to Copyright and Similar Rights are in effect.
+- Media and Formats: You are authorized to exercise the Licensed Rights in all media and formats, with technical modifications allowed.
+- Downstream Recipients: Recipients automatically receive an offer to exercise the Licensed Rights.
+
+License Conditions:
+
+- Attribution: If you share the material, you must provide attribution to the creator(s) and others designated, indicating modifications and license terms. This condition extends to Adapted Material.
+
+Sui Generis Database Rights:
+
+-Specifics: Additional conditions apply if the Licensed Rights include Sui Generis Database Rights.
+
+Disclaimer and Limitation of Liability:
+
+- Warranties: The licensor provides the material as-is and makes no warranties.
+- Limitation of Liability: The licensor is not liable for any losses, costs, or damages arising from the use of the material.
+
+Term and Termination:
+
+- Term: The license applies for the term of the Copyright and Similar Rights.
+- Termination: Your rights terminate automatically if you fail to comply, but they can be reinstated under certain conditions.
+
+Other Terms and Conditions:
+
+- Additional Terms: The licensor is not bound by additional or different terms unless expressly agreed.
+
+Interpretation:
+
+- Non-Reduction: The license does not reduce, limit, or impose conditions on any lawful use without permission.
+- Enforceability: Unenforceable provisions are automatically reformed or severed without affecting the rest.
+- No Waiver: No waiver of terms or conditions unless expressly agreed.
+
+Immunities:
+
+- Privileges and Immunities: Nothing in the license limits the privileges and immunities that apply to the Licensor or You.
+
+Important Note:
+
+This summary is not a substitute for the actual license text, and it's crucial to read and understand the complete license terms for compliance. If you have specific questions or concerns, it's advisable to seek legal advice or consult the Creative Commons website.
+
 </div>
 
 <br>

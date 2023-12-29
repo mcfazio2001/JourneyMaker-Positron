@@ -5,10 +5,13 @@
 
 https://voxolite.com/
 
+
+
 ![IMG_3391_(1)](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/99208707/651e965f-62b1-4dfb-9bc9-0ba7e150a224)
 
 <br>
-<iframe src="https://discord.com/widget?id=1158982699613163590&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+![github picture](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/171bec1b-047d-47e0-a4b8-4613a353dc28)
 
 </div>
 

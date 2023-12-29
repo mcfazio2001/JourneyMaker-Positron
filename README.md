@@ -49,6 +49,13 @@ Its compatibility with modifications tailored for other Positron versions making
 
 </div>
 
+<br>
+
+## Help Support the Project 
+If you like this design, please consider supporting the Voxolite team via donations; [Paypal] (https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC)
+
+</div>
+
 ## License
 
 ## License Summary:
@@ -106,9 +113,3 @@ Its compatibility with modifications tailored for other Positron versions making
 
 This summary is not a substitute for the actual license text, and it's crucial to read and understand the complete license terms for compliance. If you have specific questions or concerns, it's advisable to seek legal advice or consult the Creative Commons website.
 
-</div>
-
-<br>
-
-## Help Support the Project 
-If you like this design, please consider supporting the Voxolite team via donations; [Paypal] (https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC)

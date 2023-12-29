@@ -58,7 +58,8 @@ If you like this design, please consider supporting the Voxolite team via donati
 <br>
 
 ## License
-<br>
+<be>
+
 ## General Overview:
 
 - License Type: Creative Commons Attribution-NonCommercial 4.0 International.

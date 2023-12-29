@@ -12,7 +12,7 @@ https://voxolite.com/
 
 ## Our Discord
 <br>
-<a href="https://discord.gg/DYagm7jM8j" target=”_blank”><img src="https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/57bc9c36-cd7e-4af6-82ac-dd78d61ff868" width="150" height="100"></a>
+<a href="https://discord.gg/DYagm7jM8j" target="_blank”><img src="https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/57bc9c36-cd7e-4af6-82ac-dd78d61ff868" width="150" height="100"></a>
 </div>
 
 ## About

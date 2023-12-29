@@ -55,9 +55,10 @@ Its compatibility with modifications tailored for other Positron versions making
 If you like this design, please consider supporting the Voxolite team via donations; [Paypal] (https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC)
 
 </div>
+<be>
 
 ## License
-
+<br>
 ## General Overview:
 
 - License Type: Creative Commons Attribution-NonCommercial 4.0 International.

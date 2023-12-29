@@ -51,7 +51,7 @@ Its compatibility with modifications tailored for other Positron versions making
 
 ## License
 
-#License Summary:
+License Summary:
 
 General Overview:
 

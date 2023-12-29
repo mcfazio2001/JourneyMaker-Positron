@@ -10,11 +10,9 @@ https://voxolite.com/
 ![IMG_3391_(1)](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/99208707/651e965f-62b1-4dfb-9bc9-0ba7e150a224)
 
 
-
-<br>
 ## Our Discord
+<br>
 <img src="https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/57bc9c36-cd7e-4af6-82ac-dd78d61ff868" width="150" height="100">
-
 </div>
 
 ## About

@@ -9,9 +9,10 @@ https://voxolite.com/
 
 ![IMG_3391_(1)](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/99208707/651e965f-62b1-4dfb-9bc9-0ba7e150a224)
 
+
 <br>
 
-<img src="(https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/171bec1b-047d-47e0-a4b8-4613a353dc28)" width="200" height="100">
+<img src="github picture" width="200" height="100">
 
 </div>
 

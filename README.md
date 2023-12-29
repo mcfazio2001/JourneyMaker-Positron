@@ -11,7 +11,7 @@ https://voxolite.com/
 
 <br>
 
-![github picture](https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/171bec1b-047d-47e0-a4b8-4613a353dc28)
+<img src="(https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/171bec1b-047d-47e0-a4b8-4613a353dc28)" width="200" height="100">
 
 </div>
 

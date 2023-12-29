@@ -12,7 +12,7 @@ https://voxolite.com/
 
 <br>
 
-<img src="https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/57bc9c36-cd7e-4af6-82ac-dd78d61ff868" width="100" height="100">
+<img src="https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/96551103/57bc9c36-cd7e-4af6-82ac-dd78d61ff868" width="100" height="150">
 
 </div>
 

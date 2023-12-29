@@ -76,7 +76,7 @@ License Conditions:
 
 Sui Generis Database Rights:
 
--Specifics: Additional conditions apply if the Licensed Rights include Sui Generis Database Rights.
+- Specifics: Additional conditions apply if the Licensed Rights include Sui Generis Database Rights.
 
 Disclaimer and Limitation of Liability:
 

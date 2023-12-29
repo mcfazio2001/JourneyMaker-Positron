@@ -54,7 +54,7 @@ Its compatibility with modifications tailored for other Positron versions making
 <br>
 
 ## Help Support the Project 
-If you like this design, please consider supporting the Voxolite team via donations; [Paypal] (https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC)
+If you like this design, please consider supporting the Voxolite team via donations;[Paypal]([https://github.com/KRALYN/PositronV3](https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC))
 
 </div>
 <br>

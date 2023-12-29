@@ -8,6 +8,7 @@ https://voxolite.com/
 <br>
 <img src="https://discordapp.com/api/guilds/1158982699613163590/widget.png?style=shield" alt="Discord Shield"/>
 
+</div>
 
 ## About
 
@@ -17,7 +18,7 @@ Built upon the innovative Positron V3 form factor and motion-system by [KRALYN](
 
 Its compatibility with modifications tailored for other Positron versions making it an ideal choice for an enhanced printing experience while allowing flexibility for personalized adjustments.
 
-
+</div>
 
 ## Advantages 
 
@@ -32,7 +33,7 @@ Its compatibility with modifications tailored for other Positron versions making
 - Less machined parts than the Positron V3
 - New extruder
 
-
+</div>
 
 ## Specs
 
@@ -46,9 +47,11 @@ Its compatibility with modifications tailored for other Positron versions making
 -	Power supply: `24V; 200W`
 -	Footprint: `~200mmx200mm`
 
-
+</div>
 
 ## License
+
+</div>
 
 <br>
 

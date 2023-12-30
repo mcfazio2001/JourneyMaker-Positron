@@ -77,14 +77,14 @@ Important Definitions:
 
 Scope of License:
 
-- License Grant: You are granted a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license for NonCommercial purposes only.
+- **License Grant: You are granted a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license for NonCommercial purposes only.**
 - Exceptions and Limitations: The license does not apply if Exceptions and Limitations to Copyright and Similar Rights are in effect.
 - Media and Formats: You are authorized to exercise the Licensed Rights in all media and formats, with technical modifications allowed.
 - Downstream Recipients: Recipients automatically receive an offer to exercise the Licensed Rights.
 
 License Conditions:
 
-- Attribution: If you share the material, you must provide attribution to the creator(s) and others designated, indicating modifications and license terms. This condition extends to Adapted Material.
+- **Attribution: If you share the material, you must provide attribution to the creator(s) and others designated, indicating modifications and license terms. This condition extends to Adapted Material.**
 
 Sui Generis Database Rights:
 

@@ -53,8 +53,16 @@ Its compatibility with modifications tailored for other Positron versions making
 -	Footprint: `~200mmx200mm`
 
 </div>
-
 <br>
+
+## Build Instructions and Bill of Materials 
+  
+Link for the BOM:
+https://docs.google.com/spreadsheets/d/1nYiwHz63ZsrtXtIAmWYqItgidqx7duSCUeQ9fUIy6CY/edit?usp=sharing
+
+Link for the Instructions:
+https://docs.google.com/presentation/d/1X3SdqvoahyYstLh0CLl6Gt2k5lkNw0UiuemN1DqQ030/edit?usp=sharing
+
 
 ## Help Support the Project 
 If you like this design, please consider supporting the Voxolite team via donations; [Paypal](https://www.paypal.com/donate/?hosted_button_id=8HVCJBN4Q7MXC)

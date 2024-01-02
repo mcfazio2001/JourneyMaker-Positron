@@ -19,9 +19,9 @@ https://voxolite.com/
 
 JourneyMaker is a redesigned 3D printer that combines the best qualities of [Positron V3](https://github.com/KRALYN/PositronV3) and [Positron LT](https://github.com/Audiotronix/Positron_LT) with our own innovations. Perfect for hobbyists and professionals looking for a space-saving printing solution.
 
-Built upon the innovative Positron V3 form factor and motion-system by [KRALYN](https://github.com/KRALYN/PositronV3), and inspired by the Positron LT design, the JourneyMaker represents a combination of their standout features with our unique improvements.
+Built upon the innovative Positron V3 form factor and motion system by [KRALYN](https://github.com/KRALYN/PositronV3) and inspired by the Positron LT design, the JourneyMaker represents a combination of their standout features with our unique improvements. Many of the design improvements to the Positron printer come from the LT, while JourneyMaker integrates those into its own design. JourneyMaker simplifies all design complexities from the other Positron versions and enhances performance to make it the best Positron Printer available. 
 
-Its compatibility with modifications tailored for other Positron versions making it an ideal choice for an enhanced printing experience while allowing flexibility for personalized adjustments.
+Its compatibility with modifications tailored for other Positron versions makeing it an ideal choice for an enhanced printing experience while allowing flexibility for personalized adjustments.
 
 </div>
 

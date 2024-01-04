@@ -1,6 +1,6 @@
 <div align="center">
 
-# JourneyMaker-Positron-V4
+# JourneyMaker-Positron
 <img width="361" alt="voxolite" src="https://github.com/mcfazio2001/JourneyMaker---Positron-V4/assets/99208707/e5abc5b3-8346-46bc-968d-e024d33b9717">
 
 https://voxolite.com/

@@ -77,7 +77,7 @@ If you like this design, please consider supporting the Voxolite team via donati
 
 General Overview:
 
-- License Type: Creative Commons Attribution-NonCommercial 4.0 International.
+- License Type:  GNU GENERAL PUBLIC LICENSE
 - Licensing Entity: Creative Commons Corporation.
   
 Important Definitions:
